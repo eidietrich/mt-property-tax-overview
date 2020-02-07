@@ -1,0 +1,58 @@
+﻿geography,name,region,fips,number
+"Beaverhead County, Montana",Beaverhead,Mountains,30001,18
+"Big Horn County, Montana",Big Horn,Plains,30003,22
+"Blaine County, Montana",Blaine,Plains,30005,24
+"Broadwater County, Montana",Broadwater,Mountains,30007,43
+"Carbon County, Montana",Carbon,Plains,30009,10
+"Carter County, Montana",Carter,Plains,30011,42
+"Cascade County, Montana",Cascade,Great Falls,30013,2
+"Chouteau County, Montana",Chouteau,Plains,30015,19
+"Custer County, Montana",Custer,Plains,30017,14
+"Daniels County, Montana",Daniels,Plains,30019,37
+"Dawson County, Montana",Dawson,Plains,30021,16
+"Deer Lodge County, Montana",Deer Lodge,Butte,30023,30
+"Fallon County, Montana",Fallon,Plains,30025,39
+"Fergus County, Montana",Fergus,Plains,30027,8
+"Flathead County, Montana",Flathead,Kalispell,30029,7
+"Gallatin County, Montana",Gallatin,Bozeman,30031,6
+"Garfield County, Montana",Garfield,Plains,30033,50
+"Glacier County, Montana",Glacier,Plains,30035,38
+"Golden Valley County, Montana",Golden Valley,Plains,30037,53
+"Granite County, Montana",Granite,Mountains,30039,46
+"Hill County, Montana",Hill,Plains,30041,12
+"Jefferson County, Montana",Jefferson,Mountains,30043,51
+"Judith Basin County, Montana",Judith Basin,Plains,30045,36
+"Lake County, Montana",Lake,Mountains,30047,15
+"Lewis and Clark County, Montana",Lewis and Clark,Helena,30049,5
+"Liberty County, Montana",Liberty,Plains,30051,48
+"Lincoln County, Montana",Lincoln,Mountains,30053,56
+"Madison County, Montana",Madison,Mountains,30057,25
+"McCone County, Montana",McCone,Plains,30055,41
+"Meagher County, Montana",Meagher,Mountains,30059,47
+"Mineral County, Montana",Mineral,Mountains,30061,54
+"Missoula County, Montana",Missoula,Missoula,30063,4
+"Musselshell County, Montana",Musselshell,Plains,30065,23
+"Park County, Montana",Park,Mountains,30067,49
+"Petroleum County, Montana",Petroleum,Plains,30069,55
+"Phillips County, Montana",Phillips,Plains,30071,11
+"Pondera County, Montana",Pondera,Plains,30073,26
+"Powder River County, Montana",Powder River,Plains,30075,9
+"Powell County, Montana",Powell,Mountains,30077,28
+"Prairie County, Montana",Prairie,Plains,30079,45
+"Ravalli County, Montana",Ravalli,Missoula,30081,13
+"Richland County, Montana",Richland,Plains,30083,27
+"Roosevelt County, Montana",Roosevelt,Plains,30085,17
+"Rosebud County, Montana",Rosebud,Plains,30087,29
+"Sanders County, Montana",Sanders,Mountains,30089,35
+"Sheridan County, Montana",Sheridan,Plains,30091,34
+"Silver Bow County, Montana",Silver Bow,Butte,30093,1
+"Stillwater County, Montana",Stillwater,Plains,30095,32
+"Sweet Grass County, Montana",Sweet Grass,Plains,30097,40
+"Teton County, Montana",Teton,Plains,30099,31
+"Toole County, Montana",Toole,Plains,30101,21
+"Treasure County, Montana",Treasure,Plains,30103,33
+"Valley County, Montana",Valley,Plains,30105,20
+"Wheatland County, Montana",Wheatland,Plains,30107,44
+"Wibaux County, Montana",Wibaux,Plains,30109,52
+"Yellowstone County, Montana",Yellowstone,Billings,30111,3
+Montana,Statewide,Statewide,30000,
