@@ -6,4 +6,4 @@ Based on data presented in Jan. 2020 to the Montana Legislature's [HJ 35 revenue
 
 Raw data is in `raw/city-county-prop-tax-analysis.xlsx`.
 
-Analysis tools: Python3, [Pandas](https://pandas.pydata.org/) and [Altair](https://altair-viz.github.io/) running in a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) environemnt.
+Analysis tools: Python3, [Pandas](https://pandas.pydata.org/) and [Altair](https://altair-viz.github.io/) running in a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) environment.
